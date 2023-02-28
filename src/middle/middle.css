@@ -16,14 +16,15 @@
 .gpt3__header-content h1 {
     font-family: var(--font-family);
     font-weight: 600;
-    font-size: 60px;
+    font-size: 55px;
     line-height: 75px;
     letter-spacing: -0.04em;
+    color:#6d1b7b;
 }
 
 .gpt3__header-content p {
     font-family: var(--font-family);
-    font-weight: 400;
+    font-weight: 800;
     font-size: 20px;
     line-height: 28px;
     color: var(--color-text);
@@ -86,20 +87,9 @@
     margin-top: 2rem;
 }
 
-.gpt3__header-content__people img {
-    width: 170.79px;
-    height: 32px;
-}
 
-.gpt3__header-content__people p {
-    margin: 0 0 0 1rem;
-    font-family: var(--font-family);
-    font-weight: 500;
-    font-size: 12px;
-    line-height: 38px;
-    color: #fff;
-    text-align: center;
-}
+
+
 
 .gpt3__header-image {
     flex: 1;

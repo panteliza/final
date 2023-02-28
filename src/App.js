@@ -13,8 +13,8 @@ import Job from "./components/pages/Job";
 
 import Layout from "./components/pages/Layout";
 import Middle from "./middle/middle";
+import Mid from "./mid/mid";
 import Footer from "./footer/footer";
-
 
 
 function App() {
@@ -39,6 +39,7 @@ function App() {
         </Routes>
       </BrowserRouter>
       <Middle/>
+      <Mid/>
       <Footer/>
     </>
   );
